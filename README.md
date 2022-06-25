@@ -1,6 +1,6 @@
 # Road Segmentation with U-Net Over Aerial Image
 
-This dataset is taken from [Kaggle]([https://pages.github.com/](https://www.kaggle.com/datasets/balraj98/massachusetts-roads-dataset))
+This dataset is taken from [Kaggle](https://www.kaggle.com/datasets/balraj98/massachusetts-roads-dataset)
 
 ###### Data Explanation
 
@@ -17,4 +17,9 @@ The study was developed over Colab. In order to avoid the error caused by the py
 !pip install --upgrade albumentations
 
 ```
+
+:bangbang: You may get a render error for the notebook. 
+
+You can refresh the page again or open the notebook via [nbviewer](https://nbviewer.org/). 
+I am sharing the full link with you to help. [Click to see the notebook](https://nbviewer.org/github/goksubektas/road-segmentation-with-U-Net-over-aerial-image/blob/main/road_segmentation1.ipynb)
 
